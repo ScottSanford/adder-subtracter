@@ -1,0 +1,62 @@
+body {
+	background-color: #FFF5EE;
+}
+
+.main {
+	width:100%;
+	border-top:1px solid #000;	
+	border-bottom:1px solid #000;
+	text-align: center;
+	margin-top:50px;
+	margin-bottom:25px;
+	padding-bottom: 50px;
+}
+
+.form-horizontal {
+	margin-top:20px;
+}
+
+form {
+   display:table;
+   margin:auto;
+}
+
+.form-control {
+	width:62%;
+}
+
+.x-equal {
+	font-size: 30px;
+	font-family: Helvetica, Sans-serif;
+}
+
+.form-label {
+	float: left;
+	margin-right: 30px;
+}
+
+.y-equal {
+	font-size: 30px;
+	font-family: Helvetica, Sans-serif;	
+}
+
+#output {
+	margin-top: 25px;
+	margin:0 auto;
+	font-family: Helvetica, Sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	border-radius: 5px;
+}
+
+#reset-btn {
+	margin-top:25px;
+}
+
+.jumbotron {
+	width:100%;
+}
+
+.alert {
+	margin-top:30px;
+}
